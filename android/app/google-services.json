@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942920170981",
+    "project_id": "summitgearppb",
+    "storage_bucket": "summitgearppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942920170981:android:b9bf57360feb8c33f3830c",
+        "android_client_info": {
+          "package_name": "com.example.summitgear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjTqMfpOmMXpZe_2h2wqJRoFgXnbw4m64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
